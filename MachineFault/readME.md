@@ -1,3 +1,6 @@
+This is a demo version of a ongoing project for determining the machine fault from the frequency data of a machine at its Drive-End and Non-Drive-End. Many changes will be add in the future.
+
+
 # Folder
 ✨ APP | the installer APP for the MATLAB APP container
 ✨ CodeBASE | contains both installers' source codes
