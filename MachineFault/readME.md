@@ -3,6 +3,11 @@
 ✨ CodeBASE | contains both installers' source codes
 
 
+# Add the APP to device's MATLAB APP store
+To add the app and use it go to app folder choose the recent version and from matlab hit install. It will automatically add to your APP section of MATLAB
+
+
+
 # APP Preview
 ![appPREVIEW](https://user-images.githubusercontent.com/71562476/204873882-c06ba5b7-fe02-4c12-b05e-72d42b967570.png)
 
